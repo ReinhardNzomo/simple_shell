@@ -2,7 +2,7 @@
 ======================
 
 -   By Julien Barbier
--   Project to be done in teams of 2 people (your team: Jack Mutembete, Reinhard Nzomo)
+-   Project to be done in teams of 2 people (your team: Jack Mtembete, Reinhard Nzomo)
 
 Concepts
 --------
