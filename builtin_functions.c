@@ -51,7 +51,7 @@ void quit(char **tokenized_command)
 			free(line);
 			free(tokenized_command);
 			free(commands);
-			exit(args);
+			exit(arg);
 		}
 	}
 	else
